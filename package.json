@@ -1,0 +1,16 @@
+{
+  "name": "cleaning-data-project1",
+  "version": "1.0.0",
+  "description": "Node project for cleaning data to use it in a BI project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisMesa",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^2.0.0",
+    "csv-parse": "^2.0.4",
+    "csv-stringify": "^2.0.4"
+  }
+}
